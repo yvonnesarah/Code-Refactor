@@ -1,13 +1,16 @@
+/*This CSS styles applies to the overall web page*/
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/*This CSS style applies to the Body of the page*/
 body {
     background-color: #d9dcd6;
 }
 
+/*This CSS style applies to the Header of the page*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -20,11 +23,12 @@ body {
     font-size: 48px;
 }
 
-.header h1 .seo {
+.header .seo {
     color: #d9dcd6;
 }
 
-.header div {
+/*Changed 'div' to 'nav'*/
+.header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -32,11 +36,13 @@ body {
     font-size: 20px;
 }
 
-.header div ul {
+/*Changed 'div' to 'nav'*/
+.header nav ul {
     list-style-type: none;
 }
 
-.header div ul li {
+/*Changed 'div' to 'nav'*/
+.header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
@@ -69,12 +75,13 @@ p {
     margin-left: 25px;
 }
 
+/*This CSS style applies to the Main section of the web page*/
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
-
+/*This CSS style applies to the Section of the web page*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -188,13 +195,12 @@ p {
     font-size: 36px;
 }
 
-.footer {
+/*This CSS style applies to the HeFooter section of the web page*/
+/*Amended footer class (from '.footer' to 'footer'). Added font size and deleted '.footer h2'.*/
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
-}
-
-.footer h2 {
-    font-size: 20px;
+    font-size:20px;
 }
