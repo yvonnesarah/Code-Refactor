@@ -37,10 +37,9 @@ Note: The website layout is designed for desktop viewing, you may notice that so
 
 ## Project Link
 Application can can be viewed here: 
-* [Live](https://yvonnesarah.github.io/Code-Refactor/starter/)
+* [Live](https://yvonnesarah.github.io/Code-Refactor/)
 
 * [Repository](https://github.com/yvonnesarah/Code-Refactor)
-
 ## Credit
 N/A
 
