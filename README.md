@@ -50,10 +50,9 @@ Application can can be viewed here:
 
 * [Repository](https://github.com/yvonnesarah/Code-Refactor)
 
-
 ## Screenshot
 Code Refactor
-![Screenshot](assets/images/code-refactor.png "Code Refactor)
+![Screenshot](assets/images/code-refactor.png "Code Refactor")
 
 ## Credit
 N/A
