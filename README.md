@@ -1,61 +1,58 @@
 # Code-Refactor
 
-## Description
-Hired by the Marketing Manager to refactor their page - Horiseon, Social Solution Services.
-Task to improve their existing codebase to ensure it is more accessible and optimized. 
+## 📌 Description
+I was hired by the Marketing Manager to refactor the Horiseon - Social Solution Services website. The primary goal was to improve the existing codebase, making it more accessible and optimized for a wider audience.
 
-Prior to taking on this project, the website had broken links. There were several elements in the HTML and CSS file that needed to be repaired. The following changes were put in place to achieve the Marketing Managers criteria:
+The website had several issues prior to the refactor, such as broken links and outdated HTML/CSS elements. Below are the changes made to improve the website and meet the criteria specified by the Marketing Manager:
+* Updated the webpage title to "Horiseon | Social Solution Services" for clarity and SEO purposes.
+* Meta viewport tag added to ensure the site is responsive across devices and screen sizes.
+* Improved the HTML structure to ensure a logical order of elements and headings.
+* Accessible 'alt' attributes were added to all images and icons to provide descriptive text in case of failed loading.
+* Fixed navigation links and ensured the letters 'seo' in the main header are functioning properly.
+* Replaced all non-semantic divs with more meaningful HTML elements.
+* Added comments to both HTML and CSS files to provide clear explanations for other developers.
+* Created a detailed README for documentation purposes.
 
-- Updated the title of the webpage to read 'Horiseon | Social Solution Services'.
-- Meta viewport tag added to allow users to be able to see from any device or monitor, reaching our to a wider audience.
-- HTML elements and Heading attributes follow a logical structure.
-- Image and icon elements contain descriptive 'alt' attributes allowing users to know what the picture or icon is incase these fail to load at any point in time.
-- All links in the navigation bar and the letters 'seo' in 'Horiseon' in the main header are functioning correctly.
-- All div's were replaced with semantic elements.
-- Comments added to both HTML and CSS to allow other developers to understand the changes.
-- Quality README was created.
+## 🛠 Prerequisites
+There are no prerequisites for this project.
 
-## Prerequisites
-N/A
+## 📋 Criteria
+This project was designed to meet accessibility standards. Key considerations include:
+* Semantic HTML elements are used throughout the source code.
+* The HTML structure follows a logical order, independent of styling and positioning.
+* All images and icons have descriptive 'alt' attributes for better accessibility.
+* Headings are in a sequential order for improved screen reader navigation.
+* The title element is concise, descriptive, and relevant to the page content.
 
-## Criteria
-Your website must meet accessibility standards. You can achieve this completing the following:
 
-Semantic HTML elements can be found throughout the source code
-
-HTML elements follow a logical structure independent of styling and positioning
-
-Image and icon elements contain accessible alt attributes
-
-Heading attributes fall in sequential order
-
-Title elements contain a concise, descriptive title
-
-## Technologies Used
-Built with:
-Note: The website layout is designed for desktop viewing, you may notice that some of the elements don't look like the mock-up at a resolution smaller than 768px.
+## 💻 Technologies Used
+This project was built using:
 * HTML
 * CSS
 * Gitbash
+Note: The website layout is designed for desktop viewing, you may notice that some of the elements don't look like the mock-up at a resolution smaller than 768px.
 
-## Installation
-N/A
+## 🚀 Installation
+No installation is required.
 
-## Usage
-N/A
+## 📚 Usage
+No special usage instructions are required.
 
-## Project Link
-Application can can be viewed here: 
+## 🔗 Live Demo & Repository
+Application can be viewed here: 
 * [Live](https://yvonnesarah.github.io/Code-Refactor/)
 
 * [Repository](https://github.com/yvonnesarah/Code-Refactor)
 
-## Screenshot
-Code Refactor
+## 🖼 Screenshot
+Below is a preview of Code Refactor:
 ![Screenshot](assets/images/code-refactor.png "Code Refactor")
 
-## Credit
+## 👥 Credit
 N/A
 
-## Licence
-Please refer to the LICENSE in the repo.
+## 📜 License
+This project is open-source. For licensing details, please refer to the LICENSE file in the repository.
+
+## 📬 Contact
+You can reach me at 📧 yvonneadedeji.sarah@gmail.com.
