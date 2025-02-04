@@ -24,7 +24,6 @@ This project was designed to meet accessibility standards. Key considerations in
 * Headings are in a sequential order for improved screen reader navigation.
 * The title element is concise, descriptive, and relevant to the page content.
 
-
 ## 💻 Technologies Used
 This project was built using:
 * HTML
